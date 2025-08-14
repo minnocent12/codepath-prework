@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Background Color Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mirenge Innocent**
 
-**Name of your app** is an app that... [TODO] 
+**Background Color Changer** is a simple iOS app that displays three labels containing personal information and a button that changes the background color to a random color when tapped. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [ * ] Users are see a screen with three labels and a button
+- [ * ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -21,13 +21,46 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+### Favorite Apps and Features
+
+**Snapchat**  
+- Sending disappearing messages  
+- Fun filters and AR effects  
+- Stories to share daily updates  
+
+**WhatsApp**  
+- End-to-end encrypted messaging  
+- Group chats and broadcast lists  
+- Voice and video calls  
+
+**Quizlet**  
+- Creating and studying flashcards  
+- Quiz and test modes for self-assessment  
+- Sharing study sets with classmates  
+
+### App Idea
+
+**StockTracker** An app to help users track their favorite stocks and monitor the market. Features I would like to implement include:  
+- Real-time stock price updates and notifications  
+- Portfolio tracking to monitor gains and losses  
+- Charts and visualizations to analyze stock trends  
+- News feed for the latest market updates 
+
+
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges I encountered while building the app:
+
+Understanding how to connect UI elements in Interface Builder to Swift code using IBAction and IBOutlet
+
+Getting familiar with Xcode’s layout constraints to ensure the UI looks good on all device sizes
+
+Remembering to change the Connection type from Outlet to Action when linking the button
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Mirenge Innocent]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
